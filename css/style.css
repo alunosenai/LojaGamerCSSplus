@@ -1,0 +1,168 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    width: 70%;
+}
+
+header{
+    display:block;
+    position:fixed;
+    width: 70%;
+    height: 31%;
+    background-color: #0476D9;
+    margin: auto;
+    border-radius: 0px 70px 0px 0px;
+    box-shadow: 2px -1px 15px 1px rgba(8, 111, 129, 0.377);
+}
+
+.carrossel {
+    padding-top: 204px;
+    margin: auto;
+}
+
+.imagemcarrossel {
+    border-radius: 0px;
+}
+
+#menu {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    word-spacing: 15px;
+}
+
+.cabecalho {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 0px;
+}
+
+main {
+    margin: auto;
+}
+
+table {
+    margin: auto;
+}
+
+.footer {
+    border-bottom-left-radius: 70px;
+    background-image: linear-gradient(#0476D9, #83A603);
+    margin: auto;
+    color: white
+}
+
+h1 { 
+    text-align: center;
+}
+
+h2 { 
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    font-size: 150%;
+    color: #8C48DB
+}
+
+a:link, a:visited {
+    text-decoration: none;
+	color: #0442BF
+	}
+
+a:hover {
+	text-decoration: none;
+	color: #83A603
+	}
+
+a:active {
+	text-decoration: none;
+    color: #0442BF
+	}
+
+.especial:link, .especial:visited {
+    text-decoration: none;
+    color: white;
+    }
+
+.especial:hover {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    }
+
+.img_circular {
+    border-radius: 200px
+}
+
+.img_circ {
+    border-radius: 200px
+}
+
+.img_circular:hover {
+    width: 38px;
+    height: 38px;
+}
+
+.img_circ:hover {
+    width: 16%;
+    height: 16%;
+}
+
+div.topo {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#btnBusca a {
+    border-radius: 200px
+}
+
+.menucentro {
+    padding-bottom: 5px;
+}
+
+.imgzoom:hover {
+    width: 210px;
+    height: 210px;
+}
+
+#botao_topo {
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    right: 30px;
+    bottom: 30px;
+    z-index: 999;
+}
+
+.linha {
+    text-align: center;
+    font-size: 110%;
+}
+
+.linha:hover {
+    text-align: center;
+    font-size: 110%;
+    font-weight: bold;
+    color: #83A603
+}
+
+table {
+    border-collapse: separate; 
+    border-spacing: 20px;
+
+}
+
+.banner {
+    text-align: center;
+    color: white;
+    padding-top: 215px;
+    margin: auto;
+}
+
+.formul {
+    text-align: center;
+}
